@@ -1,0 +1,976 @@
+@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap");
+
+.onwardm {
+    text-align: center;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.onwardm {
+    margin: 0;
+    font-size: 3em;
+    padding: 0;
+    color: yellow;
+    text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0, 0, 0, 1),
+        0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0, 0, 0, 1),
+        0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0, 0, 0, 1),
+        -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0, 0, 0, 1), -0.03em 0 0 rgba(0, 0, 0, 1);
+}
+
+.onwardm span {
+    transform: scale(0.9);
+    display: inline-block;
+}
+
+span:first-child {
+    animation: bop 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+span:last-child {
+    animation: bopB 1s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+@keyframes bop {
+    0% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes bopB {
+    0% {
+        transform: scale(0.9);
+    }
+
+    80% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+
+    100% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+}
+
+.onwardl {
+    text-align: center;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.onwardl {
+    margin: 0;
+    font-size: 3em;
+    padding: 0;
+    color: yellow;
+    text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0, 0, 0, 1),
+        0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0, 0, 0, 1),
+        0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0, 0, 0, 1),
+        -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0, 0, 0, 1), -0.03em 0 0 rgba(0, 0, 0, 1);
+}
+
+.onwardl span {
+    transform: scale(0.9);
+    display: inline-block;
+}
+
+span:first-child {
+    animation: bop 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+span:last-child {
+    animation: bopB 1s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+@keyframes bop {
+    0% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes bopB {
+    0% {
+        transform: scale(0.9);
+    }
+
+    80% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+
+    100% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+}
+
+.onwardwl {
+    text-align: center;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.onwardwl {
+    margin: 0;
+    font-size: 3em;
+    padding: 0;
+    color: yellow;
+    text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0, 0, 0, 1),
+        0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0, 0, 0, 1),
+        0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0, 0, 0, 1),
+        -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0, 0, 0, 1), -0.03em 0 0 rgba(0, 0, 0, 1);
+}
+
+.onwardwl span {
+    transform: scale(0.9);
+    display: inline-block;
+}
+
+span:first-child {
+    animation: bop 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+span:last-child {
+    animation: bopB 1s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+@keyframes bop {
+    0% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes bopB {
+    0% {
+        transform: scale(0.9);
+    }
+
+    80% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+
+    100% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+}
+
+.onwardw {
+    text-align: center;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.onwardw {
+    margin: 0;
+    font-size: 3em;
+    padding: 0;
+    color: yellow;
+    text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0, 0, 0, 1),
+        0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0, 0, 0, 1),
+        0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0, 0, 0, 1),
+        -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0, 0, 0, 1), -0.03em 0 0 rgba(0, 0, 0, 1);
+}
+
+.onwardw span {
+    transform: scale(0.9);
+    display: inline-block;
+}
+
+span:first-child {
+    animation: bop 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+span:last-child {
+    animation: bopB 1s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
+}
+
+@keyframes bop {
+    0% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes bopB {
+    0% {
+        transform: scale(0.9);
+    }
+
+    80% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+
+    100% {
+        transform: scale(1) rotateZ(-3deg);
+    }
+}
+
+.brothers {
+    display: flex;
+    justify-content: center;
+    display: none;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.bowser {
+    width: 150px;
+    bottom: 240px;
+    right: 250px;
+    position: absolute;
+    display: none;
+}
+
+.bowserx_x {
+    width: 150px;
+    bottom: 240px;
+    right: 250px;
+    position: absolute;
+    display: none;
+    animation-name: bowser0;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bowser0 {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 0px;
+    }
+}
+
+.donkeyKong {
+    width: 150px;
+    bottom: 240px;
+    right: 250px;
+    position: absolute;
+    display: none;
+}
+
+.donkeyKongx_x {
+    width: 150px;
+    bottom: 240px;
+    right: 250px;
+    position: absolute;
+    display: none;
+    animation-name: donkeyKong0;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes donkeyKong0 {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 0px;
+    }
+}
+
+.boo {
+    width: 150px;
+    bottom: 300px;
+    right: 250px;
+    position: absolute;
+    display: none;
+}
+
+.boox_x {
+    width: 150px;
+    bottom: 300px;
+    right: 250px;
+    position: absolute;
+    display: none;
+    animation-name: boo0;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes boo0 {
+    0% {
+        left: 1040px;
+        bottom: 300px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 300px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 0px;
+    }
+}
+
+.king-bomb-omb {
+    width: 230px;
+    bottom: 240px;
+    right: 215px;
+    transform: scaleX(-1);
+    position: absolute;
+    display: none;
+}
+
+.king-bomb-ombx_x {
+    width: 230px;
+    bottom: 240px;
+    right: 215px;
+    transform: scaleX(-1);
+    position: absolute;
+    display: none;
+    animation-name: king-bomb-omb0;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes king-bomb-omb0 {
+    0% {
+        left: 1000px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1000px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 0px;
+    }
+}
+
+.continue {
+    display: none;
+    position: absolute;
+    top: 85px;
+}
+
+.mrun,
+.lrun,
+.wlrun,
+.warun {
+    display: none;
+    position: absolute;
+    bottom: 170px;
+    left: 44px;
+}
+
+body {
+    background-size: 90.75%;
+}
+
+.msportal1,
+.lsportal1,
+.wlsportal1,
+.wasportal1 {
+    width: 150px;
+    left: 1290px;
+    bottom: 55px;
+    position: absolute;
+    display: none;
+}
+
+.mario2 {
+    width: 50px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+}
+
+.luigi2 {
+    width: 50px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+}
+
+.waluigi2 {
+    width: 50px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+}
+
+.wario2 {
+    width: 50px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+}
+
+.mario3 {
+    width: 40px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+    animation-name: runm;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-fill-mode: forwards;
+}
+
+@keyframes runm {
+    0% {
+        left: 40px;
+        bottom: 55px;
+    }
+
+    100% {
+        left: 1220px;
+        bottom: 55px;
+    }
+}
+
+.luigi3 {
+    width: 125px;
+    bottom: 32px;
+    left: 40px;
+    position: absolute;
+    display: none;
+    animation-name: runl;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-fill-mode: forwards;
+}
+
+@keyframes runl {
+    0% {
+        left: 0px;
+        bottom: 32px;
+    }
+
+    100% {
+        left: 1180px;
+        bottom: 32px;
+    }
+}
+
+.waluigi3 {
+    width: 80px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+    animation-name: runwl;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-fill-mode: forwards;
+}
+
+@keyframes runwl {
+    0% {
+        left: 40px;
+        bottom: 55px;
+    }
+
+    100% {
+        left: 1220px;
+        bottom: 55px;
+    }
+}
+
+.wario3 {
+    width: 80px;
+    bottom: 55px;
+    left: 40px;
+    position: absolute;
+    display: none;
+    animation-name: runwa;
+    animation-duration: 4.8s;
+    animation-iteration-count: 3;
+    animation-fill-mode: forwards;
+}
+
+@keyframes runwa {
+    0% {
+        left: 40px;
+        bottom: 55px;
+    }
+
+    100% {
+        left: 1220px;
+        bottom: 55px;
+    }
+}
+
+.mario4 {
+    width: 50px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+}
+
+.luigi4 {
+    width: 50px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+}
+
+.waluigi4 {
+    width: 50px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+}
+
+.wario4 {
+    width: 50px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+}
+
+.peach {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+}
+
+.peachr {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+    animation-name: peachm;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes peachm {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 220px;
+        bottom: 240px;
+    }
+}
+
+.daisy {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+}
+
+.daisyr {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+    animation-name: daisym;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes daisym {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 240px;
+        bottom: 240px;
+    }
+}
+
+.rosalina {
+    width: 60px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+}
+
+.rosalinar {
+    width: 60px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+    animation-name: rosalinam;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rosalinam {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 240px;
+        bottom: 240px;
+    }
+}
+
+.yoshi {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+}
+
+.yoshir {
+    width: 50px;
+    bottom: 240px;
+    right: 340px;
+    position: absolute;
+    display: none;
+    animation-name: yoshim;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes yoshim {
+    0% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 240px;
+        bottom: 240px;
+    }
+}
+
+.mario5 {
+    width: 40px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+    animation-name: attkmario;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes attkmario {
+    0% {
+        left: 190px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 340px;
+    }
+
+    45% {
+        left: 1020px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 180px;
+        bottom: 240px;
+    }
+}
+
+.luigi5 {
+    width: 125px;
+    left: 190px;
+    bottom: 217px;
+    position: absolute;
+    display: none;
+    animation-name: attkluigi;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes attkluigi {
+    0% {
+        left: 150px;
+        bottom: 217px;
+    }
+
+    35% {
+        left: 1023px;
+        bottom: 320px;
+    }
+
+    45% {
+        left: 1000px;
+        bottom: 217px;
+    }
+
+    100% {
+        left: 150px;
+        bottom: 217px;
+    }
+}
+
+.waluigi5 {
+    width: 65px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+    animation-name: attkwaluigi;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes attkwaluigi {
+    0% {
+        left: 190px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 340px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 190px;
+        bottom: 240px;
+    }
+}
+
+.wario5 {
+    width: 65px;
+    left: 190px;
+    bottom: 240px;
+    position: absolute;
+    display: none;
+    animation-name: attkwario;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes attkwario {
+    0% {
+        left: 190px;
+        bottom: 240px;
+    }
+
+    35% {
+        left: 1040px;
+        bottom: 340px;
+    }
+
+    45% {
+        left: 1040px;
+        bottom: 240px;
+    }
+
+    100% {
+        left: 190px;
+        bottom: 240px;
+    }
+}
+
+.hintm1 {
+    font-style: italic;
+    right: 65px;
+    bottom: 200px;
+    position: absolute;
+    display: none;
+    animation-name: hintm1;
+    animation-duration: 12.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hintm1 {
+    0% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    96% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 200px;
+    }
+}
+
+.hintl1 {
+    font-style: italic;
+    right: 65px;
+    bottom: 200px;
+    position: absolute;
+    display: none;
+    animation-name: hintl1;
+    animation-duration: 12.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hintl1 {
+    0% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    96% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 200px;
+    }
+}
+
+.hintwl1 {
+    font-style: italic;
+    right: 65px;
+    bottom: 200px;
+    position: absolute;
+    display: none;
+    animation-name: hintwl1;
+    animation-duration: 12.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hintwl1 {
+    0% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    96% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 200px;
+    }
+}
+
+.hintw1 {
+    font-style: italic;
+    right: 65px;
+    bottom: 200px;
+    position: absolute;
+    display: none;
+    animation-name: hintw1;
+    animation-duration: 12.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hintw1 {
+    0% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    96% {
+        left: 1444px;
+        bottom: 200px;
+    }
+
+    100% {
+        left: 1300px;
+        bottom: 200px;
+    }
+}
+
+.msportal2,
+.lsportal2,
+.wlsportal2,
+.wasportal2 {
+    width: 150px;
+    left: 70px;
+    bottom: 240px;
+    transform: scaleX(-1);
+    position: absolute;
+    display: none;
+}
